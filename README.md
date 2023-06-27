@@ -1,1 +1,1 @@
-# jarl
+# jarl = RL with JAX
